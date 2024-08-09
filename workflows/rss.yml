@@ -1,7 +1,6 @@
 on:
   rss:
     url:
-      - http://120.48.70.8:1200/baidu/top
       - http://120.48.70.8:1200/36kr/hot-list
       - https://feeds.feedburner.com/solidot
       - https://jandan.net/feed
